@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Android Play Audio</string>
+    <string name="title_sound_example">Sound Example</string>
+</resources>
