@@ -1,4 +1,4 @@
-# android-exoplayer-example
+# Android ExoPlayer 2 example
 Simple example android using ExoPlayer 2
 
 App Runing:
