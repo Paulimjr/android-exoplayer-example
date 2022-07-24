@@ -2,4 +2,5 @@
 Simple example android using ExoPlayer 2
 
 App Runing example:
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+
+<img src="https://github.com/Paulimjr/android-exoplayer-example/blob/master/ezgif.com-gif-maker%20(3).gif" width="300" height="200" />
